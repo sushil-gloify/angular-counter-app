@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('./assets/fitness.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: -webkit-image-set(background-image);
+}
